@@ -11,7 +11,7 @@ def argue(arg)
 end
 
 def greeting(greeting = "Nice", name)
-    str
+    s
 end
 
 def return_a_value
