@@ -10,8 +10,8 @@ def argue(arg)
   arg
 end
 
-def greeting(greeting = "Nice", name)
-    s
+def greeting(greeting, name)
+    
 end
 
 def return_a_value
